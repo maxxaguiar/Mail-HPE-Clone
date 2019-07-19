@@ -1,5 +1,22 @@
 #container {
 	background: gray;
-	width: 600px;
+	width: 620px;
 	margin: 0 auto;
+}
+
+/* ******** seção do cabeçalho ******** */
+
+/*****************************************/
+header {
+	width: 620px;
+	height: 140px;
+	background: rgb(67,85,99);
+}
+header h1 {
+	display: block;
+	float: left;
+}
+header h2 {
+	display: block;
+	float: right;
 }
